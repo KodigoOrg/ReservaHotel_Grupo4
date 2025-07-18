@@ -5,7 +5,7 @@
 
 2-Alejandro Ernesto Juarez Argumedo
 
-3-Nestor IVan Fabian Colocho
+3-Nestor Ivan Fabian Colocho
 
 
 Sistema modular y extensible para realizar reservas de hoteles, vuelos y autos, implementando patrones de diseño creacionales, estructurales y de comportamiento en Java. 
