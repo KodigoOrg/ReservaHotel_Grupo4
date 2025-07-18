@@ -46,7 +46,7 @@ reserva/
 ```dos
 > bash
 > git clone https://github.com/KodigoOrg/ReservaHotel_Grupo4.git
-> cd sistema-reservas-patrones
+> cd ReservaHotel_Grupo4
 ```
 
 
